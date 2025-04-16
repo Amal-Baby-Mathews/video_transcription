@@ -1,3 +1,5 @@
 .venv
 .env
 /transcripts
+*.mp4
+*.wav
